@@ -134,11 +134,11 @@ $$
 
 #### 		Data：
 
-![data](.\data.png)
+![data](./data.png)
 
 #### Analysis:
 
-![end](.\end.png)
+![end](./end.png)
 
 
 
